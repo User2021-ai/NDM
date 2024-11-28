@@ -14,6 +14,7 @@ We also have previous paper based on the SIR model, which introduced the LCNN ap
 
 <a href="https://github.com/User2021-ai/LCNN" style="color:red" > LCNN Github </a> 
 
+🔗 **[LCNN Github](https://github.com/User2021-ai/LCNN)**
 
 
 ## Abstract
