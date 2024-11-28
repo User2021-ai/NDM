@@ -5,7 +5,7 @@
  
 The repository contains an implementation of a neural diffusion model (NDM) designed to identify weighted influential nodes in complex networks.
 
-The associated paper to this repository can be found here:
+The associated paper to this repository can be found here:<br>
 <a href="https://doi.org/10.1016/j.chaos.2024.115682" > A neural diffusion model for identifying influential nodes in complex networks  </a> 
 
 
