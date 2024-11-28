@@ -12,7 +12,7 @@ The associated paper to this repository can be found here:<br>
 We also have previous paper based on the SIR model, which introduced the LCNN approach. That paper can be found here:<br>
 <a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> <br>
 
-<a href="https://github.com/User2021-ai/LCNN" style="color: red;" > LCNN Github </a> 
+<a href="https://github.com/User2021-ai/LCNN" style="color:red" > LCNN Github </a> 
 
 
 
