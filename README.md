@@ -8,6 +8,12 @@ The repository contains an implementation of a neural diffusion model (NDM) desi
 The associated paper to this repository can be found here:
 <a href="https://doi.org/10.1016/j.chaos.2024.115682" > A neural diffusion model for identifying influential nodes in complex networks  </a> 
 
+
+We also have previous work based on the SIR model, which introduced the LCNN approach. That paper, titled "Learning to Rank Influential Nodes in Complex Networks via Convolutional Neural Networks," can be found here:
+<a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> 
+
+
+
 ## Abstract
 Identifying influential nodes in complex networks through influence diffusion models is a challenging problem
 that has garnered significant attention in recent years. While many heuristic algorithms have been developed to
