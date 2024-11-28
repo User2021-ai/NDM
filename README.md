@@ -56,6 +56,7 @@ BibTeX
 # Related Papers
 <p>Readers may also find the following papers related to this work useful:</p> <br>
 
+<a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a>   
 
  
  
