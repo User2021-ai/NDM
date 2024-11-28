@@ -9,8 +9,8 @@ The associated paper to this repository can be found here:
 <a href="https://doi.org/10.1016/j.chaos.2024.115682" > A neural diffusion model for identifying influential nodes in complex networks  </a> 
 
 
-We also have previous work based on the SIR model, which introduced the LCNN approach. That paper can be found here:
-<a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> 
+We also have previous paper based on the SIR model, which introduced the LCNN approach. That paper can be found here:
+<a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> <br>
 <a href="https://github.com/User2021-ai/LCNN" > LCNN Github </a> 
 
 
