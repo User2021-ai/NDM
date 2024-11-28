@@ -27,7 +27,7 @@ achieving superior prediction performance.
  Influential nodes · Complex network · Weighted independent model · Deep learning
  
  
-![Overview of the proposed neural diffusion model (NDM) training framework](https://github.com/User2021-ai/NDM/blob/main/Overview%20of%20NDM.pdf)
+![Overview of the proposed neural diffusion model (NDM) training framework](https://github.com/User2021-ai/NDM/blob/main/Overview%20of%20NDM.png)
 
 Overview of the proposed neural diffusion model (NDM) training framework.
 
